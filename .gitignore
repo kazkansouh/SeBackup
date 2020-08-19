@@ -1,0 +1,5 @@
+*~
+flymd.*
+*.o
+backup
+restore
